@@ -72,6 +72,7 @@ Feel free to reach out!
   <a href="https://pandas.pydata.org/"><img src="./assets/icons/pandas.svg" alt="Pandas" title="Pandas" width="48" height="48"/></a>
   <a href="https://matplotlib.org/"><img src="./assets/icons/matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="48" height="48"/></a>
   <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" title="scikit-learn"/></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter"/></a>
 </p>
 
 ### Cloud, DevOps & Tools
