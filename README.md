@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-**Welcome to my GitHub profile!** I'm an **aspiring software developer** with a passion for building projects that combine backend logic and front-end design with databases featuring real-world data. I'm always eager to exploring and gaining hands-on experience on new languages, frameworks, and technologies.
+**Welcome to my GitHub profile!** I'm an **aspiring software developer** with a passion for building projects that combine backend logic and front-end design with databases featuring real-world data. I'm always eager to explore and gain hands-on experience on new languages, frameworks, and technologies.
 
 ---
 
@@ -43,13 +43,11 @@ Feel free to reach out!
 <p>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C"/></a>
-  <a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/></a>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP"/></a>
   <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R" title="R"/></a>
 </p>
 
@@ -65,8 +63,8 @@ Feel free to reach out!
 <p>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"/></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI"/></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/></a>
   <a href="https://numpy.org/"><img src="./assets/icons/numpy.svg" alt="NumPy" title="NumPy" width="48" height="48"/></a>
