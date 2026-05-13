@@ -6,11 +6,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="coding gif" height="200" width="700"/>
-</p>
-
----
 
 ## 💡 About Me
 
