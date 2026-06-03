@@ -43,7 +43,6 @@ Feel free to reach out!
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/></a>
-  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R" title="R"/></a>
 </p>
 
 ### Databases & Storage
