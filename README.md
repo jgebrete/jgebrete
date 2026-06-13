@@ -38,6 +38,8 @@ Feel free to reach out!
 <p>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></a>
+  <a href="https://www.gnu.org/software/gnu-c-manual/"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/></a>
