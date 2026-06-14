@@ -42,7 +42,6 @@ Feel free to reach out!
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
-  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/></a>
 </p>
